@@ -18,6 +18,12 @@
 |:------------- |:------------- |:------------- |
 |1|[程序员你为什么这么累][004]|作者：晓风轻|
 
+## 综合
+### blog
+|#|Title|Tag|
+|:------------- |:------------- |:------------- |
+|1|[当然我在扯淡][005]|王垠|
+
 
 
 
@@ -30,3 +36,4 @@
 [002]: https://docs.oracle.com/javase/7/docs/api/
 [003]: http://download.csdn.net/download/maishere/5216753
 [004]:https://zhuanlan.zhihu.com/p/28705206
+[005]:http://www.yinwang.org/
