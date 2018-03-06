@@ -1,6 +1,6 @@
 # source book
 
-³ÌĞòÔ±µÚÒ»ÊÖ×ÊÁÏ´óÊÕ¼¯£¬ŞğÆú¶şÊÖ»õ¡£ 
+ç¨‹åºå‘˜ç¬¬ä¸€æ‰‹èµ„æ–™å¤§æ”¶é›†ï¼Œæ‘’å¼ƒäºŒæ‰‹è´§ã€‚ 
 
 
 ## Java
@@ -9,6 +9,7 @@
 |:------------- |:------------- |:------------- |
 |1|[Java SE Specifications][001]||
 |2|[Java 7 API Specification][002]||
+|2|[think in java][003]||
 
 
 
@@ -21,3 +22,4 @@
 
 [001]: https://docs.oracle.com/javase/specs/
 [002]: https://docs.oracle.com/javase/7/docs/api/
+[003]: http://download.csdn.net/download/maishere/5216753
