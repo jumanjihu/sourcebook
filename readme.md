@@ -1,25 +1,29 @@
-# source book
+# 学习资料
 
-程序员第一手资料大收集，摒弃二手货。 
 
 
 ## Java
-### online doc
+### 文档
 |#|Title|Tag|
 |:------------- |:------------- |:------------- |
 |1|[Java SE Specifications][001]||
 |2|[Java 7 API Specification][002]||
-### book 
+### 书籍
 |#|Title|Tag|
 |:------------- |:------------- |:------------- |
 |1|[think in java][003]|仅供学习下载，请支持正版|
-### blog
+### 博客
 |#|Title|Tag|
 |:------------- |:------------- |:------------- |
 |1|[程序员你为什么这么累][004]|作者：晓风轻|
+|1|[徒手撸代码][007]|zhengxin diao|
 
 ## 综合
-### blog
+### 期刊
+|#|Title|Tag|
+|:------------- |:------------- |:------------- |
+|1|[码农周刊][006]||
+### 博客
 |#|Title|Tag|
 |:------------- |:------------- |:------------- |
 |1|[当然我在扯淡][005]|王垠|
@@ -37,3 +41,5 @@
 [003]: http://download.csdn.net/download/maishere/5216753
 [004]:https://zhuanlan.zhihu.com/p/28705206
 [005]:http://www.yinwang.org/
+[006]:https://weekly.manong.io/
+[007]:https://www.xilidou.com/2018/01/08/spring-ioc/
