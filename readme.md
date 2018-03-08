@@ -25,6 +25,8 @@
 |:------------- |:------------- |:------------- |
 |1|[程序员你为什么这么累][004]|作者：晓风轻|
 |2|[徒手撸代码][007]|zhengxin diao|
+|3|[java程序员需要突破的技术要点][009]|阿里架构师|
+
 
 ## 综合
 #### 期刊
@@ -52,3 +54,4 @@
 [006]:https://weekly.manong.io/
 [007]:https://www.xilidou.com/2018/01/08/spring-ioc/
 [008]:http://download.csdn.net/download/ws2014/7116343
+[009]:https://www.cnblogs.com/jdx6/p/8515654.html
