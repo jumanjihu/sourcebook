@@ -37,6 +37,11 @@
 |#|Title|Author|
 |:------------- |:------------- |:------------- |
 |1|[当然我在扯淡][005]|王垠|
+#### 学术
+|#|Title|Author|
+|:------------- |:------------- |:------------- |
+|1|[arxiv][010]|收集计算机等科学预印版的网站|
+
 
 
 
@@ -55,3 +60,4 @@
 [007]:https://www.xilidou.com/2018/01/08/spring-ioc/
 [008]:http://download.csdn.net/download/ws2014/7116343
 [009]:https://www.cnblogs.com/jdx6/p/8515654.html
+[010]:https://arxiv.org/
