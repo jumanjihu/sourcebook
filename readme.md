@@ -16,10 +16,10 @@
 #### 书籍
 |#|Title|Tag|
 |:------------- |:------------- |:------------- |
-|1|[think in java][003]|仅供学习下载，请支持正版|
-|2|[spring揭秘][008]|请支持正版|
-|3|[how tomcat works][009]|请支持正版|
-|4|[研磨设计模式][011]|请支持正版|
+|1|[think in java][003]||
+|2|[spring揭秘][008]||
+|3|[how tomcat works][009]||
+|4|[研磨设计模式][011]||
 
 #### 博客
 |#|Title|Author|
@@ -54,12 +54,12 @@
 
 [001]: https://docs.oracle.com/javase/specs/
 [002]: https://docs.oracle.com/javase/7/docs/api/
-[003]: http://download.csdn.net/download/maishere/5216753
+[003]: https://book.douban.com/subject/2130190/
 [004]:https://zhuanlan.zhihu.com/p/28705206
 [005]:http://www.yinwang.org/
 [006]:https://weekly.manong.io/
 [007]:https://www.xilidou.com/2018/01/08/spring-ioc/
-[008]:http://download.csdn.net/download/ws2014/7116343
-[009]:https://www.cnblogs.com/jdx6/p/8515654.html
+[008]:https://book.douban.com/subject/3897837/
+[009]:https://book.douban.com/subject/1943128/
 [010]:https://arxiv.org/
 [011]:https://book.douban.com/subject/5343318/
