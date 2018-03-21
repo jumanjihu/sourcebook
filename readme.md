@@ -19,6 +19,7 @@
 |1|[think in java][003]|仅供学习下载，请支持正版|
 |2|[spring揭秘][008]|请支持正版|
 |3|[how tomcat works][009]|请支持正版|
+|4|[研磨设计模式][011]|请支持正版|
 
 #### 博客
 |#|Title|Author|
@@ -61,3 +62,4 @@
 [008]:http://download.csdn.net/download/ws2014/7116343
 [009]:https://www.cnblogs.com/jdx6/p/8515654.html
 [010]:https://arxiv.org/
+[011]:https://book.douban.com/subject/5343318/
