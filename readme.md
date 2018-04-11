@@ -27,6 +27,8 @@
 |1|[程序员你为什么这么累][004]|作者：晓风轻|
 |2|[徒手撸代码][007]|zhengxin diao|
 |3|[大话架构：java程序员需要突破的技术要点][009]|阿里架构师|
+|4|[java常见面试总结][012]||
+
 
 
 ## 综合
@@ -63,3 +65,4 @@
 [009]:https://book.douban.com/subject/1943128/
 [010]:https://arxiv.org/
 [011]:https://book.douban.com/subject/5343318/
+[012]:https://blog.csdn.net/as6757uyy65uy75/article/details/79370686
